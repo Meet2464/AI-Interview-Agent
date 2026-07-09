@@ -12,7 +12,7 @@ import paymentRouter from './routes/payment.route.js'
 
     const app = express()
     app.use(cors({
-        origin:"https://ai-interview-agent-client-51sn.onrender.com/",
+        origin:"https://ai-interview-agent-client-51sn.onrender.com",
         credentials:true
     }))
 
