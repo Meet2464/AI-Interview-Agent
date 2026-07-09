@@ -1,7 +1,7 @@
     import React, { useRef, useState, useEffect } from 'react'
     import maleVideo from "../assets/Videos/male-ai.mp4"
     import femaleVideo from "../assets/Videos/female-ai.mp4"
-    import Timer from './timer'
+    import Timer from './Timer'
     import {motion, time} from 'motion/react'
     import { FaMicrophone , FaMicrophoneSlash } from 'react-icons/fa'
     import axios from 'axios'
