@@ -12,7 +12,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import InterviewReport from './pages/InterviewReport'
 import Pricing from './pages/Pricing'
 
-export const ServerUrl = "http://localhost:8000"
+export const ServerUrl = "https://ai-interview-agent-1-cazb.onrender.com"
 
 function App() {  
 
